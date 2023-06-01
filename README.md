@@ -98,14 +98,31 @@
 <br></br>
 
 ## ☕자바
+  - 자바의 컴파일 과정
   - Call by Value인가? Call by Reference인가?
+  - 문자열(String) 클래스 간의 비교
+  - 자바 가상 머신 (JVM)
+  - 자동 형변환(Promotion) & 강제 형변환(Casting)
+  - 업캐스팅 & 다운캐스팅
+  - 오토 박싱 & 오토 언박싱
+  - 자바 Thread
+  - 고유 락(Intrinsic Lock)
+  - 자바 Garbage Collection
+  - Primitive type & Reference type
+  - 직렬화(Serialization)
+  - Stream API
+  - 자바14의 Record 클래스
+  - 컴포지션(Composition)
  <br></br>
  
 ## 🍃스프링 프레임워크
+  - Bean Scope
+  - MVC 프레임워크
   - Dispatcher-Servlet 
   - DI
   - AOP
   - DAO
   - Annotaion
   - Spring Data JPA
+  - Spring Security
 <br></br>
