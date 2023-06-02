@@ -62,10 +62,12 @@
 ## 📤네트워크, 웹
   - OSI 7 계층
   - 3-Way Handshaking 
+  - 4-Way Handshaking
   - TCP와 UDP
   - TCP/IP 프로토콜
   - HTTP와 HTTPS
   - REST API
+  - 브라우저에 URL을 입력했을 때의 과정
  <br></br>
  
 ## ⚙운영체제
@@ -94,14 +96,15 @@
   - 함수형 프로그래밍
   - 데브옵스
   - 서드파티
+  - 싱글톤
   - 마이크로서비스 아키텍처(MSA), 그 외 각종 SW 아키텍처
 <br></br>
 
 ## ☕자바
-  - 자바의 컴파일 과정
+  - [자바의 컴파일 과정](Java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
   - Call by Value인가? Call by Reference인가?
   - 문자열(String) 클래스 간의 비교
-  - 자바 가상 머신 (JVM)
+  - [자바 가상 머신 (JVM)](Java/%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0%20(JVM).md)
   - 자동 형변환(Promotion) & 강제 형변환(Casting)
   - 업캐스팅 & 다운캐스팅
   - 오토 박싱 & 오토 언박싱
@@ -113,6 +116,7 @@
   - Stream API
   - 자바14의 Record 클래스
   - 컴포지션(Composition)
+  - 추상 클래스와 인터페이스
  <br></br>
  
 ## 🍃스프링 프레임워크
