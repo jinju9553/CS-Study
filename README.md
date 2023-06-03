@@ -61,8 +61,7 @@
 
 ## 📤네트워크, 웹
   - OSI 7 계층
-  - 3-Way Handshaking 
-  - 4-Way Handshaking
+  - [3-Way Handshaking](/Network%26Web/3-Way%20Handshacking.md)
   - TCP와 UDP
   - TCP/IP 프로토콜
   - HTTP와 HTTPS
@@ -103,6 +102,9 @@
 ## ☕자바
   - [자바의 컴파일 과정](Java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
   - Call by Value인가? Call by Reference인가?
+  - 오버로딩 & 오버라이딩
+  - 추상 클래스와 인터페이스
+  - Primitive type & Reference type
   - 문자열(String) 클래스 간의 비교
   - [자바 가상 머신 (JVM)](Java/%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0%20(JVM).md)
   - 자동 형변환(Promotion) & 강제 형변환(Casting)
@@ -110,13 +112,11 @@
   - 오토 박싱 & 오토 언박싱
   - 자바 Thread
   - 고유 락(Intrinsic Lock)
-  - 자바 Garbage Collection
-  - Primitive type & Reference type
+  - [자바 Garbage Collection](Java/%EC%9E%90%EB%B0%94%20Garbage%20Collection.md)
   - 직렬화(Serialization)
   - Stream API
   - 자바14의 Record 클래스
   - 컴포지션(Composition)
-  - 추상 클래스와 인터페이스
  <br></br>
  
 ## 🍃스프링 프레임워크
