@@ -39,6 +39,6 @@
     - 메서드 영역
  - 가비지 컬렉션: 사용되지 않는 메모리를 지속적으로 찾아내어 제거함.
 
-### 참고
+### 출처
 - 천인국, \<Power Java Compact\>, 인피니티 북스 (2019)
 - https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0(Java%20Virtual%20Machine).md

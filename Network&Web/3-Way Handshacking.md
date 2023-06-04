@@ -31,6 +31,6 @@
     - 클라이언트의 `TIME_WAIT` 시간이 끝나면 클라이언트도 닫는다. 
 <br></br>
 
-### 참고
+### 출처
 - 개인 필기
 - https://gyoogle.dev/blog/computer-science/network/TCP%203%20way%20handshake%20&%204%20way%20handshake.html

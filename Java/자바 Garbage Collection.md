@@ -63,7 +63,7 @@
 7. 위 과정이 반복되며 지속적으로 참조되는 객체들이 Old 영역으로 이동되고, 그렇지 않은 객체들은 제거된다. Major GC이 발생되면 Old 영역 또한 clear되고 공간이 확보된다.
 <br></br>
 
-### 참고
+### 출처
 - https://gyoogle.dev/blog/computer-language/Java/Garbage%20Collection.html
 - https://brorica.tistory.com/entry/%EC%9E%90%EB%B0%94-gc
 - https://d2.naver.com/helloworld/1329
