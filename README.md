@@ -101,9 +101,9 @@
 
 ## ☕자바
   - [자바의 컴파일 과정](Java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
-  - Call by Value인가? Call by Reference인가?
-  - 오버로딩 & 오버라이딩
-  - 추상 클래스와 인터페이스
+  - [Call by Value & Call by Reference](/Java/Call%20by%20Value%20%26%20Call%20by%20Reference.md)
+  - [오버로딩 & 오버라이딩](/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%20%26%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
+  - [추상 클래스와 인터페이스](/Java/%EC%B6%94%EC%83%81%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
   - Primitive type & Reference type
   - 문자열(String) 클래스 간의 비교
   - [자바 가상 머신 (JVM)](Java/%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0%20(JVM).md)
