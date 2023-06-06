@@ -113,7 +113,7 @@
   - 자바 Thread
   - 고유 락(Intrinsic Lock)
   - [자바 Garbage Collection](Java/%EC%9E%90%EB%B0%94%20Garbage%20Collection.md)
-  - 직렬화(Serialization)
+  - [직렬화(Serialization)](/Java/%EC%A7%81%EB%A0%AC%ED%99%94(Serialization).md)
   - Stream API
   - 자바14의 Record 클래스
   - 컴포지션(Composition)
