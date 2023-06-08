@@ -3,6 +3,7 @@
 <br></br>
 
 ## Primitive type
+![image](https://github.com/jinju9553/CS-Study/assets/69393506/9e47f3b7-e6d7-4bf2-ac55-8f806c632d30)
 - 자바에서 사용되는 **기본 자료형**으로, 사용하기 전에 선언되어야 함.
 - OS에 따라 자료형의 길이가 변하지 않는다.
 - `==` 연산자로 비교한다.
