@@ -111,7 +111,7 @@
   - [업캐스팅 & 다운캐스팅](/Java/%EC%97%85%EC%BA%90%EC%8A%A4%ED%8C%85%20%26%20%EB%8B%A4%EC%9A%B4%EC%BA%90%EC%8A%A4%ED%8C%85.md)
   - [동적 바인딩 & 정적 바인딩](/Java/%EB%8F%99%EC%A0%81%20%EB%B0%94%EC%9D%B8%EB%94%A9%20%26%20%EC%A0%95%EC%A0%81%20%EB%B0%94%EC%9D%B8%EB%94%A9.md)
   - [오토 박싱 & 오토 언박싱](/Java/%EC%98%A4%ED%86%A0%20%EB%B0%95%EC%8B%B1%20%26%20%EC%98%A4%ED%86%A0%20%EC%96%B8%EB%B0%95%EC%8B%B1.md)
-  - 자바 Thread
+  - [자바 Thread](/Java/%EC%9E%90%EB%B0%94%20Thread.md)
   - 고유 락(Intrinsic Lock)
   - [자바 Garbage Collection](Java/%EC%9E%90%EB%B0%94%20Garbage%20Collection.md)
   - [직렬화(Serialization)](/Java/%EC%A7%81%EB%A0%AC%ED%99%94(Serialization).md)
