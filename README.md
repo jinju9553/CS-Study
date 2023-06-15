@@ -121,7 +121,7 @@
  <br></br>
  
 ## 🍃스프링 프레임워크
-  - Bean Scope
+  - [Bean Scope](/Spring/Bean%20Scope.md)
   - MVC 프레임워크
   - Dispatcher-Servlet 
   - DI
