@@ -124,7 +124,7 @@
   - [Bean Scope](/Spring/Bean%20Scope.md)
   - [MVC 프레임워크](/Spring/MVC%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)
   - Dispatcher-Servlet 
-  - DI
+  - [Dependency Injection](/Spring/Dependency%20Injection.md)
   - AOP
   - DAO
   - Annotaion
