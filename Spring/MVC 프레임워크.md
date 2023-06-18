@@ -41,6 +41,9 @@
 
 ## 동작 과정
 ---
+![image](https://github.com/jinju9553/CS-Study/assets/69393506/4669e391-2494-4eab-a1c2-9b786f1ba174)
+
+
 1. 클라이언트가 URL을 요청하면, 웹 브라우저에서 스프링으로 request가 전송된다.
 
 2. `Dispatcher Servlet`이 request를 수신하면 `Handler Mapping`을 통해 해당 URL을 담당하는 `Controller`를 찾아낸다.
