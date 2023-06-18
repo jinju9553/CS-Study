@@ -5,7 +5,7 @@
 ## Bean이란?
 - Bean이란 스프링에서 사용하는 **POJO 기반 객체**이다.
 
-- Bean은 **Spring IoC 컨테이너**가 인스턴스화, 관리, 생성을 담당한다.
+- Bean은 **Spring IoC 컨테이너**가 관리하며, Bean의 인스턴스화와 생성을 담당한다.
 
 - Bean은 컨테이너에 공급하는 **설정 메타 데이터(XML 파일)를 따라 생성**된다.
 
@@ -13,6 +13,13 @@
     - 별도의 설정이 없다면 Spring Bean은 JVM 안에서 `Singleton`으로 생성된다.
     - 이러한 경우 싱글톤 패턴처럼 특정 타입 Bean을 딱 하나만 만들고, 모두가 공유한다.
     - 스프링을 통해 Bean을 제공받는다면, 언제나 주입받은 Bean이 동일한 객체라는 가정 하에 개발한다.
+<br></br>
+
+### 📌 Bean 등록의 장점
+- IoC 컨테이너에 Bean을 등록하면 스프링이 알아서 의존성 관리 및 주입을 담당하기 때문에 의존성 관리가 수월하다.
+
+- Spring IoC 컨테이너에 등록된 Bean은 Singleton 형태로 관리되기 때문에 재사용성이 높아진다.
+
 <br></br>
 
 ## Scope의 종류
@@ -73,3 +80,4 @@
 ### 출처
 - https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Spring/%5BSpring%5D%20Bean%20Scope.md
 - https://gmlwjd9405.github.io/2018/11/10/spring-beans.html
+- https://github.com/wjdrbs96/Gyunny_Spring_Study/blob/master/spring/2%EC%A3%BC%EC%B0%A8/2.%20%EC%8A%A4%ED%94%84%EB%A7%81%EC%97%90%EC%84%9C%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85.md
