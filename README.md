@@ -116,7 +116,7 @@
   - [자바 Garbage Collection](Java/%EC%9E%90%EB%B0%94%20Garbage%20Collection.md)
   - [직렬화(Serialization)](/Java/%EC%A7%81%EB%A0%AC%ED%99%94(Serialization).md)
   - [Stream API](/Java/Stream%20API.md)
-  - 자바14의 Record 클래스
+  - [자바14 Record](/Java/%EC%9E%90%EB%B0%9414%20Record.md)
   - 컴포지션(Composition)
  <br></br>
  
