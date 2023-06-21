@@ -117,7 +117,7 @@
   - [직렬화(Serialization)](/Java/%EC%A7%81%EB%A0%AC%ED%99%94(Serialization).md)
   - [Stream API](/Java/Stream%20API.md)
   - [자바14 Record](/Java/%EC%9E%90%EB%B0%9414%20Record.md)
-  - 컴포지션(Composition)
+  - [컴포지션(Composition)](/Java/%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98(Composition).md)
  <br></br>
  
 ## 🍃스프링 프레임워크
