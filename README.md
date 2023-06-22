@@ -5,7 +5,7 @@
 <br></br>
 
 ## 🧱자료구조
-  - 리스트 (ArrayList & LinkedLists)
+  - [리스트 (ArrayList & LinkedLists)](/Data%20Structure/%EB%A6%AC%EC%8A%A4%ED%8A%B8%20(ArrayList%20%26%20LinkedLists).md)
   - 트리
   - 그래프
   - 이진탐색트리 (Binary Search Tree)
