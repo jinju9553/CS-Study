@@ -128,6 +128,6 @@
   - AOP
   - DAO
   - Annotaion
-  - Spring Data JPA
+  - JPA
   - Spring Security
 <br></br>
