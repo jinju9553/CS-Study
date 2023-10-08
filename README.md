@@ -47,7 +47,7 @@
 ## 🗃데이터베이스
   - DBMS의 개념
   - DBMS의 기능
-  - Commit과 Rollback
+  - Key (기본키, 후보키, 슈퍼키)
   - 트랜잭션
   - UML
   - View와 가상테이블
@@ -127,7 +127,6 @@
   - [Dependency Injection](/Spring/Dependency%20Injection.md)
   - AOP
   - DAO
-  - Annotaion
   - JPA
   - Spring Security
 <br></br>
