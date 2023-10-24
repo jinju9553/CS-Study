@@ -47,16 +47,17 @@
 ## 🗃데이터베이스
   - DBMS의 개념
   - DBMS의 기능
-  - Key (기본키, 후보키, 슈퍼키)
+  - [Key (기본키, 후보키, 슈퍼키)](/Database/Key.md)
+  - [데이터베이스 모델링](/Database/데이터베이스%20모델링.md)
   - 트랜잭션
   - UML
   - View와 가상테이블
-  - 정규화
+  - [정규화](/Database/정규화.md)
   - 무결성
   - 트리거
-  - 인덱스
+  - [인덱스](/Database/인덱스.md)
   - 오라클 시퀀스
-  - 오라클과 MySQL의 차이점
+  - [오라클과 MySQL 비교](/Database/오라클과%20MySQL%20비교.md)
 <br></br>
 
 ## 📤네트워크, 웹
@@ -96,7 +97,7 @@
   - 데브옵스
   - 서드파티
   - 싱글톤
-  - 마이크로서비스 아키텍처(MSA), 그 외 각종 SW 아키텍처
+  - 마이크로서비스 아키텍처(MSA)
 <br></br>
 
 ## ☕자바
@@ -125,8 +126,8 @@
   - [MVC 프레임워크](/Spring/MVC%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)
   - Dispatcher-Servlet 
   - [Dependency Injection](/Spring/Dependency%20Injection.md)
-  - AOP
-  - DAO
-  - JPA
+  - [AOP](/Spring/AOP.md)
+  - [Interceptor](/Spring/Interceptor.md)
+  - [JPA](/Spring/JPA.md)
   - Spring Security
 <br></br>
