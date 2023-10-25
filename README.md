@@ -49,7 +49,7 @@
   - DBMS의 기능
   - [Key (기본키, 후보키, 슈퍼키)](/Database/Key.md)
   - [데이터베이스 모델링](/Database/데이터베이스%20모델링.md)
-  - 트랜잭션
+  - [트랜잭션](/Database/트랜잭션.md)
   - UML
   - View와 가상테이블
   - [정규화](/Database/정규화.md)
